@@ -1,4 +1,5 @@
-# ratesetterchallenge
+# Loaner
+A Vue Js Solution for the ratesetter challenge
 
 ## Project setup
 ```
